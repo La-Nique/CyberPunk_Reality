@@ -1,11 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+
+import Homepage from './components/Homepage';
+import Lodging from './components/Lodging';
+import Attractions from './components/Attractions';
+import Restaurants from './components/Restaurants';
 
 import { Routes, Route, Outlet, Link } from "react-router-dom";
 
-function App() {
-
-  export default function App() {
+export default function App() {
   return (
     <div className="App">
         <Homepage />
