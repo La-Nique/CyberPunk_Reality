@@ -20,7 +20,7 @@ Hover over to our city and experience the ultimate combination of grit, glitz, a
 
 > Choose a place/destination (real or fictional) and create a React app to advertise it (attractions, restaurants, historical sites, etc...)
 
-Valognan City was created inspired by Neon City from CyberPunk, the video game. 
+Valognan City was inspired by Neon City from CyberPunk, the video game. 
 
 
 #### Project Breakdown:
