@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Welcome to Valognan City
+### Project One: UI/UX Design
+###### Developed by Lanique Lynn Peterson
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Install react-router-dom:
 
-## Available Scripts
+```npm install react-router-dom```
+For reference:
+[Adding custom fonts](https://blog.greenroots.info/3-quick-ways-to-add-fonts-to-your-react-app)
+[Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+[Git notes](https://docs.google.com/document/d/1IiKHX0lIk7n_AlNIttbD1d1ICukPVodbYmWj0IaCSPE/edit?usp=sharing) -->
 
-In the project directory, you can run:
+### Synposis:
 
-### `npm start`
+Hey you. Are you ready to leave bland behind and embrace the neon-lit world of the future? Welcome to the city of tomorrow, where technology and fashion collide in a cyberpunk paradise. Explore a city where robots roam the streets and holographic advertisements light up the skies. Indulge in the latest in cyberwear and high-tech gadgets, and be amazed by the breathtaking architecture that blends the past and the future.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Hover over to our city and experience the ultimate combination of grit, glitz, and glory. The future is now, and it's all happening here. Get ready to be neon-tastic!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Inspiration; Developer's words:
 
-### `npm test`
+> Choose a place/destination (real or fictional) and create a React app to advertise it (attractions, restaurants, historical sites, etc...)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Valognan City was inspired by Neon City from CyberPunk, the video game. 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Project Breakdown:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [ ] Git workflow. Must use feature branch workflow and create pull requests before merging feature branches.
+- [ ] Correctness of other tools used (ie should only be using React, React-Router, and vanilla CSS)
+- [ ] User experience. How does it feel to use and navigate your website? Is the content presented to the user in a readable and useful manner? This includes colors, fonts, and backgrounds chosen.
+- [ ] All content criteria are met:
+    - [ ] There is a visually appealing homepage to greet the user and introduce the location chosen. 
+    - [ ] There should be links to at least three other pages. 
+    - [ ] Each of the three pages should have information regarding what someone who visits the location should/could do. 
+    - [ ] For each page, please choose at least 2 subtopics. For example, a page on places to eat should feature at least two restaurants. 
+    - [ ] Each subtopic should have a photo and a description. 
