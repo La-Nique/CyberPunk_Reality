@@ -1,0 +1,36 @@
+.main {
+    background-color: #151527;
+    text-align: center;
+}
+
+/* .header h1 {
+    font-family: "SpongeboyRegular";
+} */
+
+img {
+    border-radius: 5px;
+    height: 400px;
+    /* width: 285px;
+    object-fit: cover;
+    margin: 20px 0px; */
+}
+
+p {
+    background-color: lightblue;
+    color: blue;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    max-width: 30%;
+    min-width: 285px;
+    margin: 20px 0px;
+    padding: 8px;
+}
+
+.mcdonalds, .bar, .coffee {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #151527;
+}
