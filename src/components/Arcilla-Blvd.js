@@ -3,14 +3,13 @@ import McDonalds from './img/cyberpunk-mcdonalds.jpg'
 import coffee from './img/cyberpunk-coffee-shop-1.jpg'
 import bar from './img/cyberpunk-bar-1.jpg'
 
-// Lodging 
 function ArcillaBlvd() {
     return (
         <div >
             <h1>Food District</h1>
             <h3>See what the best of Bikini Bottom has to offer for your stay!</h3>
 
-            <div className="content">
+            <div className="main">
 
                 <div className="mcdonalds">
                     <img src={McDonalds} alt="cyber McDonalds" />

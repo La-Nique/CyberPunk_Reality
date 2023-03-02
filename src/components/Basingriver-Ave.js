@@ -1,9 +1,8 @@
 import './css/Basingriver-Ave.css';
-// import student from './img/cyberpunk-school-0.jpg'
+import student from './img/cyberpunk-school-0.jpg'
 import highschool from './img/cyberpunk-school-1.jpg'
 import library from './img/cyberpunk-library-0.png'
 
-// Lodging 
 function BasingriverAve() {
     return (
         <div >
@@ -17,6 +16,7 @@ function BasingriverAve() {
                     <p>
                         Are you looking for a high school that prepares your children for the fast-paced world of tomorrow? Look no further than our state-of-the-art high school in Valognan City. Our school is at the forefront of advanced technology and cutting-edge educational practices. Our experienced teachers and staff are dedicated to providing a well-rounded education that prepares our students for the challenges of the future. From virtual reality classrooms to advanced robotics programs, our curriculum is tailored to meet the needs of every student. And with its sleek and stylish design, our high school is the perfect environment for learning and growth. So enroll your children today in the high school of the future, and give them the tools they need to succeed in the world of tomorrow.
                     </p>
+                    <img src={student} alt="student at cyber High School" />
                 </div>
 
                 <div className="library">

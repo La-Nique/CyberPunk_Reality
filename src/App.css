@@ -1,7 +1,9 @@
 * {
   box-sizing: border-box;
+  border: 0px solid red;
   margin: 0;
   padding: 0;
+  border-color: pink;
 }
 
 ul {
@@ -13,10 +15,11 @@ ul {
 }
 
 li {
-  float: left;
+  float: inline-start;
   display: block;
   text-align: center;
   padding: 14px 16px;
+  background-color: pink;
 }
 
 li:hover {
