@@ -1,17 +1,14 @@
 * {
   box-sizing: border-box;
   border: 0px solid red;
-  margin: 0;
-  padding: 0;
-  border-color: pink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 ul {
-  list-style-type: none;
+  font-variant-caps: petite-caps;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: pink;
 }
 
 li {
@@ -19,9 +16,9 @@ li {
   display: block;
   text-align: center;
   padding: 14px 16px;
-  background-color: pink;
 }
 
-li:hover {
-  background-color: yellow;
+a:hover {
+  font-weight: bold;
+  color: hsla(326, 66%, 52%, 0.623);
 }

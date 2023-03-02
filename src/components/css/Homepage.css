@@ -1,21 +1,22 @@
 body {
-    background-color: #151527;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
+    background: url("../img/cyberpunk-bkgrd.png") no-repeat center center fixed;
+    height:205px;
+    width: 100%;
+    width: 100vw;
+    background-position:bottom right;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
-body li {
-    text-align: center;
-  display:flex;
-  justify-content:center;
-    background-color: #151527;
-  }
+body ul {
+    display: flex;
+    justify-content: center;
+}
 
 .content {   
-    color: white;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -25,26 +26,38 @@ body li {
 }
 
 .content h1 {
-    font-size: 300%;
+    font-size: 350%;
     margin-left: 1%;
-    margin-top: 0.5%;
+    margin-top: 20%;
     font-family: Impact;
     letter-spacing: 1.5px;
     color: #cdd9e4;
     vertical-align:top
-    
 }
 
-img {
-    
+h1 {
+    animation: fading 10s infinite
+}
+
+@keyframes fading {
+    0% {
+        opacity: 0.3
+    }
+
+    50% {
+        opacity: 1
+    }
+
+    100% {
+        opacity: 0.3
+    }
 }
 
 .content p {
-    color: white;
-    font-size: 1.3rem;
-    border-radius: 5px;
-    max-width: 30%;
+    font-size: 110%;
+    max-width: 40%; 
     min-width: 285px;
-    margin: 20px 0px;
-    padding: 8px;
+    margin-top: -3%;
+    background-color: hsla(240, 30%, 12%, 0.66);
+    color: hsla(326, 66%, 52%, 1);
 }
