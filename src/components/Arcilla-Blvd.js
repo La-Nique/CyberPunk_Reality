@@ -12,20 +12,29 @@ function ArcillaBlvd() {
             <description>Indulge in an alluring gastronomic affair at our culinary playground of delectable delights.</description>
 
                 <div className="coffee">
-                    <img src={coffee} alt="cyber Coffee Shop" />
+                    <img src={coffee} alt="cyber coffee shop" />
                     <place>Cyberbrew Cafe</place>
                     <p>
-                        Welcome to our coffee shop in Valognan City, the perfect place to relax and unwind in the bustling cyberpunk metropolis. Whether you're looking for a quick and delicious cup of coffee, a small snack, or a place to enjoy some light reading— we have everything you need. Our expert baristas craft the finest coffee blends using the latest in high-tech brewing equipment, ensuring that every cup is a perfect balance of flavor and aroma. And with our selection of light snacks and comfortable seating, you can enjoy your coffee while browsing through our collection of cyberpunk literature. So come join us at our coffee shop, where you can escape the neon-lit chaos of Valognan City and enjoy a moment of peace and tranquility in the heart of the future.
+                        Stop by Cyberbrew Cafe in Valognan City, the perfect place to relax and unwind in the bustling vibrant metropolis. 
+                        Whether you're looking for a quick and delicious cup of coffee, a small snack, or a place to enjoy some light reading— we take pride in cultativing just the cozy and inviting environment you're looking for.
+                        Our expert baristas craft the finest coffee blends using the latest in high-tech brewing equipment, ensuring that every cup is a perfect balance of flavor and aroma.
+                        And with our selection of light snacks and comfortable seating, you can enjoy your coffee while browsing through our collection of literature. 
+                        So come join us at our coffee shop, where you can escape the neon-lit chaos of Valognan City and enjoy a moment of peace and tranquility.
                     </p>
                 </div>
 
                 <sectional>• • •</sectional>
                 
                 <div className="bar">
-                    <img src={bar} alt="cyber Bar" />
+                    <img src={bar} alt="cyber bar" />
                     <place>Electrifying Noir</place>
                     <p>
-                        Escape the neon-lit chaos of Valognan City and step into a world of luxury and indulgence at our upscale bar. With its sleek and stylish decor, our bar is the perfect place to unwind and enjoy a cocktail after a long day in the bustling city. Our expert mixologists have crafted a menu of innovative and unique cocktails that are sure to tantalize your taste buds. From classic favorites to daring new concoctions, we have something for every discerning palate. So come relax, indulge, and enjoy the finer things in life at our luxury bar in Valognan City. Experience the perfect blend of sophistication and high-tech chic, only at our exclusive establishment.
+                        Valognanian, are you ready to step into a world of luxury and indulgence?
+                        At Electrifying Noir we take pride in our sleek and stylish decor; our bar is the perfect place to unwind and enjoy a cocktail after a long day in the bustling city. 
+                        Our expert mixologists have crafted a menu of innovative and unique cocktails that are sure to tantalize and electrify your taste buds. 
+                        From classic favorites to daring new concoctions, we have something for every discerning palate. 
+                        So come relax, indulge, and enjoy the finer things in life at our upscale bar in Valognan City. 
+                        Experience the perfect blend of sophistication and high-tech chic, only at our exclusive establishment.
                     </p>
                 </div>
                 
@@ -35,7 +44,11 @@ function ArcillaBlvd() {
                     <img src={McDonalds} alt="cyber McDonalds" />
                         <place>McDigitize</place>
                     <p>
-                        If you're looking for a quick and delicious bite, there's no better place than McDonald's. Our menu of cyberpunk-inspired meals and classic favorites will satisfy your hunger and delight your taste buds. Whether you're looking for a juicy burger or a crispy chicken sandwich, we've got you covered. Plus, with our high-tech ordering system and futuristic decor, your dining experience will be out of this world. So come visit us at McDonald's in Valognan City and enjoy a meal that's just as bold and daring as the world around you.
+                        If you're looking for a quick and delicious bite, there's no better place than McDigitize. 
+                        Our menu of classic American favorites will satisfy your hunger and delight your taste buds. 
+                        Whether you're looking for a juicy burger or a crispy chicken sandwich, we've got you covered. 
+                        Plus, with our cybrog-fueled ordering system and incandescent decor, your dining experience will be out of this world. 
+                        So come visit us at McDigitize in Valognan City and enjoy a meal that's just as bold and daring as the world around you.
                     </p>
                 </div>
 
