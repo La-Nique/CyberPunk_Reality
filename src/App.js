@@ -55,8 +55,8 @@ function Layout() {
 function NoMatch() {
   return (
     <div>
-      <h2>Whoopsies, you are lost!</h2>
-        <Link to="/"><h3>click here to return to the home page</h3></Link>
+      <h2>Whoopsies. You are lost!</h2>
+        <Link to="/"><error>click here to return to the home page :)</error></Link>
     </div>
   );
 }

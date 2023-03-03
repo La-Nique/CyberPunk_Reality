@@ -2,6 +2,7 @@
     /* background-color: hsla(240, 30%, 12%, 0.388); */
     text-align: center;
     color: white;
+    font-family: Verdana;
 }
 
 .outline {
@@ -15,9 +16,10 @@
 
 district {
     font-family: Impact;
+    display: block;
     font-size: 350%;
     text-align: center;
-    color: white;
+    color: #93e2f2;
     animation: fading 10s infinite;
 }
 
@@ -31,11 +33,23 @@ district {
     }
 }
 
-place {
+description {
     font-family: Verdana;
-    font-size: 180%;
+    font-size: 110%;
+    display: inline-block;
+    max-width: 60%;
+    text-align: center;
+    color: #93e2f2;
+}
+
+place {
+    background-color: none;
+    font-family: Verdana;
+    font-size: 200%;
     text-align: center;
     color: white;
+    font-weight: bold;
+    font-variant-caps: petite-caps;
 }
 
 img {
@@ -43,6 +57,27 @@ img {
     margin: 20px 0px;
     max-width: 65%;
     min-width: 25%;
+}
+
+sectional {
+    background-color: none;
+    font-family: Verdana;
+    font-size: 200%;
+    text-align: center;
+    color: hsla(297, 56%, 64%, 0.7);
+    font-weight: bold;
+    font-variant-caps: petite-caps;
+    animation: fading 10s infinite;
+}
+
+@keyframes fading {
+    0% {
+        opacity: 0.5
+    } 50% {
+        opacity: 1
+    } 100% {
+        opacity: 0.5
+    }
 }
 
 p  {
@@ -57,7 +92,7 @@ p  {
     padding: 8px;
 }
 
-.mcdonalds, .bar, .coffee, .library, .highschool, .downtown, .museum, .mall {
+.mcdonalds, .bar, .coffee, .library, .highschool, .museum, .mall {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;

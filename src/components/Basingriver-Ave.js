@@ -9,17 +9,21 @@ function BasingriverAve() {
             <div className="outline">
 
             <district>Educational District</district>
-            <h3>See what the best of Bikini Bottom has to offer for your stay!</h3>
+            <description>Stimulate your mind and nourish your soul with an irresistible curriculum of knowledge and innovation in our captivating education district.</description>
 
                 <div className="library">
                     <img src={library} alt="cyber Library" />
+                    <place>Neural Nexus Library</place>
                     <p>
                         Are you tired of endless scrolling through endless feeds of irrelevant information? Let the library be your source of knowledge and escape from the chaos of the digital world. Our collection of books and virtual reality interfaces will transport you to a realm of timeless wisdom. Discover the secrets of the past and the solutions of the future. Find the answers you've been searching for, and immerse yourself in the world of imagination. Come visit us today and experience the power of knowledge. The library awaits.
                     </p>
                 </div>
 
+                <sectional>• • •</sectional>
+
                 <div className="highschool">
                     <img src={highschool} alt="cyber High School" />
+                     <place>Ada Lovelace High School of Advanced Quantum Computing and Computation Theory</place>
                     <p>
                         Are you looking for a high school that prepares your children for the fast-paced world of tomorrow? Look no further than our state-of-the-art high school in Valognan City. Our school is at the forefront of advanced technology and cutting-edge educational practices. Our experienced teachers and staff are dedicated to providing a well-rounded education that prepares our students for the challenges of the future. From virtual reality classrooms to advanced robotics programs, our curriculum is tailored to meet the needs of every student. And with its sleek and stylish design, our high school is the perfect environment for learning and growth. So enroll your children today in the high school of the future, and give them the tools they need to succeed in the world of tomorrow.
                     </p>
@@ -28,6 +32,15 @@ function BasingriverAve() {
 
             </div>
             </div>
+
+            <copyright>All Rights Reserved © Lanique Lynn Peterson
+            <br />
+            Website && Art && Graphics created by Lanique Lynn Peterson</copyright>
+
+            {/* <Link style={copyright} to="/arcilla-blvd">All Rights Reserved © Lanique Lynn Peterson
+            <br/>
+            Website && Art && Graphics created by Lanique Lynn Peterson</Link> */}
+
         </div>
     );
 }
