@@ -2,7 +2,15 @@
   box-sizing: border-box;
   border: 0px solid red;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* Hide scrollbar for IE, Edge and Firefox */
+  -ms-overflow-style: none;
+   scrollbar-width: none;
 }
+
+ /* Hide scrollbar for Chrome, Safari and Opera */
+ *::-webkit-scrollbar {
+   display: none;
+ }
 
 ul {
   font-variant-caps: petite-caps;
@@ -18,7 +26,13 @@ li {
   padding: 14px 16px;
 }
 
+a {
+  color: rgb(149, 220, 255);
+  text-decoration: none;
+}
+
 a:hover {
   font-weight: bold;
   color: hsla(326, 66%, 52%, 0.623);
+  text-decoration: none;
 }

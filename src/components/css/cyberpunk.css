@@ -1,0 +1,66 @@
+.arcilla, .downtown, .basingriver {
+    /* background-color: hsla(240, 30%, 12%, 0.388); */
+    text-align: center;
+    color: white;
+}
+
+.outline {
+    padding-top: 2%;
+    background-color: hsla(240, 30%, 12%, 0.388);
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+district {
+    font-family: Impact;
+    font-size: 350%;
+    text-align: center;
+    color: white;
+    animation: fading 10s infinite;
+}
+
+@keyframes fading {
+    0% {
+        opacity: 0.5
+    } 50% {
+        opacity: 1
+    } 100% {
+        opacity: 0.5
+    }
+}
+
+place {
+    font-family: Verdana;
+    font-size: 180%;
+    text-align: center;
+    color: white;
+}
+
+img {
+    object-fit: cover;
+    margin: 20px 0px;
+    max-width: 65%;
+    min-width: 25%;
+}
+
+p  {
+    font-family: Verdana;
+    background-color: hsla(297, 56%, 64%, 0.498);
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 1px;
+    max-width: 65%;
+    min-width: 25%;
+    margin: 20px 0px;
+    padding: 8px;
+}
+
+.mcdonalds, .bar, .coffee, .library, .highschool, .downtown, .museum, .mall {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,4 +1,3 @@
-import './css/Basingriver-Ave.css';
 import student from './img/cyberpunk-school-0.jpg'
 import highschool from './img/cyberpunk-school-1.jpg'
 import library from './img/cyberpunk-library-0.png'
@@ -6,10 +5,18 @@ import library from './img/cyberpunk-library-0.png'
 function BasingriverAve() {
     return (
         <div >
-            <h1>Educational Section</h1>
+            <div className="basingriver">
+            <div className="outline">
+
+            <district>Educational District</district>
             <h3>See what the best of Bikini Bottom has to offer for your stay!</h3>
 
-            <div className="content">
+                <div className="library">
+                    <img src={library} alt="cyber Library" />
+                    <p>
+                        Are you tired of endless scrolling through endless feeds of irrelevant information? Let the library be your source of knowledge and escape from the chaos of the digital world. Our collection of books and virtual reality interfaces will transport you to a realm of timeless wisdom. Discover the secrets of the past and the solutions of the future. Find the answers you've been searching for, and immerse yourself in the world of imagination. Come visit us today and experience the power of knowledge. The library awaits.
+                    </p>
+                </div>
 
                 <div className="highschool">
                     <img src={highschool} alt="cyber High School" />
@@ -19,13 +26,7 @@ function BasingriverAve() {
                     <img src={student} alt="student at cyber High School" />
                 </div>
 
-                <div className="library">
-                    <img src={library} alt="cyber Library" />
-                    <p>
-                        Are you tired of endless scrolling through endless feeds of irrelevant information? Let the library be your source of knowledge and escape from the chaos of the digital world. Our collection of books and virtual reality interfaces will transport you to a realm of timeless wisdom. Discover the secrets of the past and the solutions of the future. Find the answers you've been searching for, and immerse yourself in the world of imagination. Come visit us today and experience the power of knowledge. The library awaits.
-                    </p>
-                </div>
-
+            </div>
             </div>
         </div>
     );

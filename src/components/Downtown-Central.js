@@ -1,17 +1,17 @@
-import './css/Downtown-Central.css';
+import './css/cyberpunk.css';
 import mall0 from './img/cyberpunk-mall-0.jpg'
 import mall1 from './img/cyberpunk-mall-1.png'
 import museum0 from './img/cyberpunk-museum-0.png'
 import museum1 from './img/cyberpunk-museum-1.png'
 
-// Lodging 
 function DowntownCentral() {
     return (
         <div >
-            <h1>Fun District</h1>
-            <h3>See what the best of Bikini Bottom has to offer for your stay!</h3>
+            <div className="downtown">
+            <div className="outline">
 
-            <div className="content">
+            <district>Adventure District</district>
+            <h3>See what the best of Bikini Bottom has to offer for your stay!</h3>
 
                 <div className="mall">
                     <img src={mall0} alt="cyber Shopping Mall" />
@@ -28,7 +28,7 @@ function DowntownCentral() {
                     </p>
                     <img src={museum1} alt="cyber Art History Museum" />
                 </div>
-
+            </div>
             </div>
         </div>
     );
