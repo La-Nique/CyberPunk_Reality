@@ -1,12 +1,10 @@
 import './css/Homepage.css';
-// import backgroundimg from './img/cyberpunk-bkgrd.jpg'
-
 
 function Homepage() {
     return (
         <div className="content">
-            This is the landing page for the site.
-            <h1 style={{ fontFamily: "SpongeboyRegular", color: "blue" }}>Welcome to Bikini Bottom!</h1>
+            <h1>Welcome to Valognan City,</h1>
+            <blurb>where the pulse-pounding beat of the night is the rhythm of life.</blurb>
         </div>
     );
 }
