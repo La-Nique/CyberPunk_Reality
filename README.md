@@ -2,8 +2,7 @@
 #### Project One: UI/UX Design
 ###### Developed by Lanique Lynn Peterson
 
-<!-- placeholder for all site demo photos:
-[<img width="641" alt="VRun" src="https://user-images.githubusercontent.com/54916166/179155042-87ce69a4-3de3-42fa-8dd2-ff8e8e563f45.png">](https://github.com/La-Nique) -->
+[<img width="641" alt="Valognan City Homepage" src="https://github.com/La-Nique/CyberPunk_Reality/blob/update-readme/src/components/pudding/home-ss.png">](https://github.com/La-Nique)
 
 ### Synposis
 
@@ -22,6 +21,20 @@ Valognan City was inspired by Neon City from CyberPunk, the video game, and Tron
 ```$
 $ npm start
 ```
+
+## React JavaScript Site Demo
+
+### Homepage
+
+[<img width="641" alt="Valognan City Homepage" src="https://github.com/La-Nique/CyberPunk_Reality/blob/update-readme/src/components/pudding/homepage.gif">](https://github.com/La-Nique)
+
+### Entirety
+
+[<img width="641" alt="Valognan City Homepage" src="https://github.com/La-Nique/CyberPunk_Reality/blob/update-readme/src/components/pudding/pudding.gif">](https://github.com/La-Nique)
+
+### Error Page
+
+[<img width="641" alt="Valognan City Homepage" src="https://github.com/La-Nique/CyberPunk_Reality/blob/update-readme/src/components/pudding/error.gif">](https://github.com/La-Nique)
 
 ### Project Breakdown
 
