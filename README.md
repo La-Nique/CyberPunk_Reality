@@ -2,7 +2,7 @@
 #### Project One: UI/UX Design
 ###### Developed by Lanique Lynn Peterson
 
-[<img width="641" alt="Valognan City Homepage" src="https://github.com/La-Nique/CyberPunk_Reality/blob/update-readme/src/components/pudding/home-ss.png">](https://github.com/La-Nique)
+[<img width="641" alt="Valognan City Homepage" src="https://raw.githubusercontent.com/La-Nique/CyberPunk_Reality/main/src/components/pudding/home-ss.png">](https://github.com/La-Nique)
 
 ### Synposis
 
@@ -26,15 +26,15 @@ $ npm start
 
 ### Homepage
 
-[<img width="641" alt="Valognan City Homepage" src="https://github.com/La-Nique/CyberPunk_Reality/blob/update-readme/src/components/pudding/homepage.gif">](https://github.com/La-Nique)
+[<img width="641" alt="Valognan City Homepage" src="https://raw.githubusercontent.com/La-Nique/CyberPunk_Reality/c18581b30427e0f6890864fa58a6fb72b272f82d/src/components/pudding/homepage.gif">](https://github.com/La-Nique)
 
 ### Entirety
 
-[<img width="641" alt="Valognan City Homepage" src="https://github.com/La-Nique/CyberPunk_Reality/blob/update-readme/src/components/pudding/pudding.gif">](https://github.com/La-Nique)
+[<img width="641" alt="Valognan City Homepage" src="https://github.com/La-Nique/CyberPunk_Reality/blob/c18581b30427e0f6890864fa58a6fb72b272f82d/src/components/pudding/pudding.gif?raw=true">](https://github.com/La-Nique)
 
 ### Error Page
 
-[<img width="641" alt="Valognan City Homepage" src="https://github.com/La-Nique/CyberPunk_Reality/blob/update-readme/src/components/pudding/error.gif">](https://github.com/La-Nique)
+[<img width="641" alt="Valognan City Homepage" src="https://raw.githubusercontent.com/La-Nique/CyberPunk_Reality/c18581b30427e0f6890864fa58a6fb72b272f82d/src/components/pudding/error.gif">](https://github.com/La-Nique)
 
 ### Project Breakdown
 
