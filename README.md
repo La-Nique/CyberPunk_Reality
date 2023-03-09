@@ -6,15 +6,15 @@
 
 ### Synposis
 
-Need a Shock? Explore a city where robots roam the streets and holographic advertisements light up the skies. Indulge in the latest in cyberwear and high-tech gadgets, and be amazed by the breathtaking architecture that blends the past and the future.
+Hover over to Valognan City and experience the ultimate combination of quantum traveling, digital glitz, and exponential intellectual advancement. 
 
-Hover over to Valognan City and experience the ultimate combination of bits, glitz, and intellectual advancement. The future is now, and it's all happening here. Get ready to be neon-tastic!
+Come get lost in a lively city where robots roam the streets and holographic advertisements light up the skies. Indulge in the latest in cyberwear and high-tech gadgets, and be amazed by the breathtaking architecture that blends the past and the future. The future is now, and it's all happening here.
 
 ### Backstory + Inspiration-- Developer's words
 
 > Choose a place/destination (real or fictional) and create a React app to advertise it (attractions, restaurants, historical sites, etc...)
 
-Valognan City was inspired by Neon City from CyberPunk, the video game, and Tron. 
+Valognan City was inspired by Night City from CyberPunk, the video game, and Tron. 
 
 ### How-to
 
