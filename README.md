@@ -36,6 +36,8 @@ $ npm start
 
 [<img width="641" alt="Valognan City Homepage" src="https://raw.githubusercontent.com/La-Nique/CyberPunk_Reality/c18581b30427e0f6890864fa58a6fb72b272f82d/src/components/pudding/error.gif">](https://github.com/La-Nique)
 
+<br>
+
 ### Project Breakdown
 
 - [x] Git workflow. 
@@ -51,9 +53,14 @@ How does it feel to use and navigate your website? Is the content presented to t
     - [x] For each page, please choose at least 2 subtopics. For example, a page on places to eat should feature at least two restaurants. 
     - [x] Each subtopic should have a photo and a description. 
 
-###### Final Grade: ???/50
+###### Final Grade: 50/50
 
-###### **All Rights Reserved © Lanique Lynn Peterson**
+#### [Professor's](https://github.com/mtlynch3) Feedback:
+> Really awesome job with this project! Very creative and consistent with your branding and has a lovely user experience. 
+
+<br>
+
+###### **All Rights Reserved © [Lanique Lynn Peterson](https://github.com/La-Nique)**
 
 <!-- PROFESSOR'S NOTES
 
