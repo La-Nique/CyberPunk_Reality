@@ -59,6 +59,9 @@ How does it feel to use and navigate your website? Is the content presented to t
 #### [Professor's](https://github.com/mtlynch3) Feedback:
 > Really awesome job with this project! Very creative and consistent with your branding and has a lovely user experience. 
 
+###### Final Grade: 50/50
+###### Final Class Grade: A+
+
 <br>
 
 ###### **All Rights Reserved © [Lanique Lynn Peterson](https://github.com/La-Nique)**
