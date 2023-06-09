@@ -1,6 +1,7 @@
 # Welcome to Valognan City
-#### Project One: UI/UX Design
-###### Developed by Lanique Lynn Peterson
+#### React JavaScript + UI/UX Design
+###### Designed + Developed by Lanique Lynn Peterson
+###### ALL Graphics Created by Lanique Lynn Peterson
 
 [<img width="641" alt="Valognan City Homepage" src="https://raw.githubusercontent.com/La-Nique/CyberPunk_Reality/main/src/components/pudding/home-ss.png">](https://github.com/La-Nique)
 
@@ -22,7 +23,7 @@ Valognan City was inspired by Night City from CyberPunk, the video game, and Tro
 $ npm start
 ```
 
-## React JavaScript Site Demo
+## Site Demo
 
 ### Homepage
 
@@ -38,7 +39,7 @@ $ npm start
 
 <br>
 
-### Project Breakdown
+<!-- ### Project Breakdown
 
 - [x] Git workflow. 
 Must use feature branch workflow and create pull requests before merging feature branches.
@@ -53,7 +54,7 @@ How does it feel to use and navigate your website? Is the content presented to t
     - [x] For each page, please choose at least 2 subtopics. For example, a page on places to eat should feature at least two restaurants. 
     - [x] Each subtopic should have a photo and a description. 
 
-###### Final Grade: 50/50
+###### Final Grade: 50/50 -->
 
 #### [Professor's](https://github.com/mtlynch3) Feedback:
 > Really awesome job with this project! Very creative and consistent with your branding and has a lovely user experience. 
